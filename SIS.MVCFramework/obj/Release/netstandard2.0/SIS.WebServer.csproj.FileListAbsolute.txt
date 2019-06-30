@@ -1,0 +1,12 @@
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\bin\Release\netstandard2.0\SIS.WebServer.deps.json
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\bin\Release\netstandard2.0\SIS.WebServer.dll
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\bin\Release\netstandard2.0\SIS.WebServer.pdb
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\bin\Release\netstandard2.0\SIS.HTTP.dll
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\bin\Release\netstandard2.0\SIS.HTTP.pdb
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\obj\Release\netstandard2.0\SIS.WebServer.csprojAssemblyReference.cache
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\obj\Release\netstandard2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\obj\Release\netstandard2.0\SIS.WebServer.AssemblyInfoInputs.cache
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\obj\Release\netstandard2.0\SIS.WebServer.AssemblyInfo.cs
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\obj\Release\netstandard2.0\SIS.WebServer.csproj.CopyComplete
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\obj\Release\netstandard2.0\SIS.WebServer.dll
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.WebServer\obj\Release\netstandard2.0\SIS.WebServer.pdb

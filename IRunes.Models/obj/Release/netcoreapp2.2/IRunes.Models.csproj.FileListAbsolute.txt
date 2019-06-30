@@ -1,0 +1,8 @@
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\bin\Release\netcoreapp2.2\IRunes.Models.deps.json
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\bin\Release\netcoreapp2.2\IRunes.Models.dll
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\bin\Release\netcoreapp2.2\IRunes.Models.pdb
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Release\netcoreapp2.2\IRunes.Models.csproj.CoreCompileInputs.cache
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Release\netcoreapp2.2\IRunes.Models.AssemblyInfoInputs.cache
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Release\netcoreapp2.2\IRunes.Models.AssemblyInfo.cs
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Release\netcoreapp2.2\IRunes.Models.dll
+D:\Desktop\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Release\netcoreapp2.2\IRunes.Models.pdb
