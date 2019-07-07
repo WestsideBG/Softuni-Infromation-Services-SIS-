@@ -6,7 +6,8 @@ using SIS.WebServer.Routing.Contracts;
 using System.Linq;
 using System.Reflection;
 using SIS.HTTP.Responses.Contracts;
-using SIS.MVCFramework.Attributes;
+using SIS.MVCFramework.Attributes.Action;
+using SIS.MVCFramework.Attributes.Http;
 
 namespace SIS.WebServer
 {
@@ -36,7 +37,8 @@ namespace SIS.WebServer
                     .GetMethods(BindingFlags.DeclaredOnly
                     | BindingFlags.Public
                     | BindingFlags.Instance)
-                    .Where(x => !x.IsSpecialName && x.DeclaringType == controllerType);
+                    .Where(x => !x.IsSpecialName && x.DeclaringType == controllerType)
+                    .Where(x => x.GetCustomAttributes().All(a => a.GetType() != typeof(NonActionAttribute)));
 
                 foreach (var action in actions)
                 {

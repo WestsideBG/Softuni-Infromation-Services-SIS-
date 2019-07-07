@@ -10,8 +10,9 @@
     using IRunes.Data;
     using IRunes.Models;
     using SIS.MVCFramework.Controller;
-    using SIS.MVCFramework.Attributes;
+    using SIS.MVCFramework.Attributes.Http;
     using SIS.HTTP.Enums;
+    using SIS.MVCFramework.Attributes.Action;
 
     public class UsersController : Controller
     {
@@ -89,6 +90,12 @@
             this.SignOut(request);
 
             return Redirect("/");
+        }
+
+        [NonAction]
+        public override string ToString()
+        {
+            return base.ToString();
         }
     }
 }

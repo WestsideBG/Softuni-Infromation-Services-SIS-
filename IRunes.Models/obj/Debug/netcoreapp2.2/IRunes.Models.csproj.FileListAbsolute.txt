@@ -16,3 +16,12 @@ D:\Desktop\IRunes\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bo
 D:\Desktop\IRunes\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.AssemblyInfo.cs
 D:\Desktop\IRunes\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.dll
 D:\Desktop\IRunes\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.pdb
+D:\Desktop\SIS\SIS\IRunes.Models\bin\Debug\netcoreapp2.2\IRunes.Models.deps.json
+D:\Desktop\SIS\SIS\IRunes.Models\bin\Debug\netcoreapp2.2\IRunes.Models.dll
+D:\Desktop\SIS\SIS\IRunes.Models\bin\Debug\netcoreapp2.2\IRunes.Models.pdb
+D:\Desktop\SIS\SIS\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.csprojAssemblyReference.cache
+D:\Desktop\SIS\SIS\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.csproj.CoreCompileInputs.cache
+D:\Desktop\SIS\SIS\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.AssemblyInfoInputs.cache
+D:\Desktop\SIS\SIS\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.AssemblyInfo.cs
+D:\Desktop\SIS\SIS\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.dll
+D:\Desktop\SIS\SIS\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.pdb

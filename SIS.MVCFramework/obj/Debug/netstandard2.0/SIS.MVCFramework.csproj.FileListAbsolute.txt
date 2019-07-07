@@ -22,3 +22,15 @@ D:\Desktop\IRunes\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bo
 D:\Desktop\IRunes\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.csproj.CopyComplete
 D:\Desktop\IRunes\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.dll
 D:\Desktop\IRunes\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.pdb
+D:\Desktop\SIS\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.MVCFramework.deps.json
+D:\Desktop\SIS\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.MVCFramework.dll
+D:\Desktop\SIS\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.MVCFramework.pdb
+D:\Desktop\SIS\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+D:\Desktop\SIS\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+D:\Desktop\SIS\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.csprojAssemblyReference.cache
+D:\Desktop\SIS\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.csproj.CoreCompileInputs.cache
+D:\Desktop\SIS\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.AssemblyInfoInputs.cache
+D:\Desktop\SIS\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.AssemblyInfo.cs
+D:\Desktop\SIS\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.csproj.CopyComplete
+D:\Desktop\SIS\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.dll
+D:\Desktop\SIS\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.pdb

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\IRunes.Models\\IRunes.Models.csproj",
+      "projectUniqueName": "D:\\Desktop\\SIS\\SIS\\IRunes.Models\\IRunes.Models.csproj",
       "projectName": "IRunes.Models",
-      "projectPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\IRunes.Models\\IRunes.Models.csproj",
+      "projectPath": "D:\\Desktop\\SIS\\SIS\\IRunes.Models\\IRunes.Models.csproj",
       "packagesPath": "C:\\Users\\WestsideBG\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\IRunes.Models\\obj\\",
+      "outputPath": "D:\\Desktop\\SIS\\SIS\\IRunes.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

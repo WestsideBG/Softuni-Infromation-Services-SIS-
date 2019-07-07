@@ -4,6 +4,17 @@
 <head>
     <meta charset="utf-8" />
     <title>IRunes</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 50%;
+    height: 50%;
+  }
+  </style>
 </head>
 <body>
     <div>
@@ -30,12 +41,31 @@
         </header>
         <hr style="height: 2px" />
         <main>
-            <h1>Albums</h1>
-            <hr style="height: 2px" />
-            <a href="/Albums/Create">Create Album</a>
-            <hr style="height: 2px" />
-            <div id="albums">
-                @Model.Albums
+            <!-- Card -->
+<div class="card">
+
+  <!-- Card image -->
+  <div class="view overlay">
+    <img class="card-img-top" src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg" alt="Card image cap">
+    <a href="#!">
+      <div class="mask rgba-white-slight"></div>
+    </a>
+  </div>
+
+  <!-- Card content -->
+  <div class="card-body">
+
+    <!-- Title -->
+    <h4 class="card-title">Card title</h4>
+    <!-- Text -->
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <!-- Button -->
+    <a href="#" class="btn btn-primary">Button</a>
+
+  </div>
+
+</div>
+<!-- Card -->
             </div>
         </main>
         <hr style="height: 2px" />

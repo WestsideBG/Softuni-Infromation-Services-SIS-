@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\SIS.MVCFramework\\SIS.MVCFramework.csproj",
+      "projectUniqueName": "D:\\Desktop\\SIS\\SIS\\SIS.MVCFramework\\SIS.MVCFramework.csproj",
       "projectName": "SIS.MVCFramework",
-      "projectPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\SIS.MVCFramework\\SIS.MVCFramework.csproj",
+      "projectPath": "D:\\Desktop\\SIS\\SIS\\SIS.MVCFramework\\SIS.MVCFramework.csproj",
       "packagesPath": "C:\\Users\\WestsideBG\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\SIS.MVCFramework\\obj\\",
+      "outputPath": "D:\\Desktop\\SIS\\SIS\\SIS.MVCFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\SIS.HTTP\\SIS.HTTP.csproj": {
-              "projectPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\SIS.HTTP\\SIS.HTTP.csproj"
+            "D:\\Desktop\\SIS\\SIS\\SIS.HTTP\\SIS.HTTP.csproj": {
+              "projectPath": "D:\\Desktop\\SIS\\SIS\\SIS.HTTP\\SIS.HTTP.csproj"
             }
           }
         }

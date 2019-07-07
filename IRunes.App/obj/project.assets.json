@@ -3540,11 +3540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\IRunes.App\\IRunes.App.csproj",
+      "projectUniqueName": "D:\\Desktop\\SIS\\SIS\\IRunes.App\\IRunes.App.csproj",
       "projectName": "IRunes.App",
-      "projectPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\IRunes.App\\IRunes.App.csproj",
+      "projectPath": "D:\\Desktop\\SIS\\SIS\\IRunes.App\\IRunes.App.csproj",
       "packagesPath": "C:\\Users\\WestsideBG\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\IRunes.App\\obj\\",
+      "outputPath": "D:\\Desktop\\SIS\\SIS\\IRunes.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3563,11 +3563,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\IRunes.Data\\IRunes.Data.csproj": {
-              "projectPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\IRunes.Data\\IRunes.Data.csproj"
+            "D:\\Desktop\\SIS\\SIS\\IRunes.Data\\IRunes.Data.csproj": {
+              "projectPath": "D:\\Desktop\\SIS\\SIS\\IRunes.Data\\IRunes.Data.csproj"
             },
-            "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\SIS.MVCFramework\\SIS.MVCFramework.csproj": {
-              "projectPath": "D:\\Desktop\\IRunes\\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\\SIS.MVCFramework\\SIS.MVCFramework.csproj"
+            "D:\\Desktop\\SIS\\SIS\\SIS.MVCFramework\\SIS.MVCFramework.csproj": {
+              "projectPath": "D:\\Desktop\\SIS\\SIS\\SIS.MVCFramework\\SIS.MVCFramework.csproj"
             }
           }
         }

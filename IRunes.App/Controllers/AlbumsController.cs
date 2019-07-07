@@ -7,7 +7,7 @@ using IRunes.Models;
 using SIS.HTTP.Enums;
 using SIS.HTTP.Requests.Contracts;
 using SIS.HTTP.Responses.Contracts;
-using SIS.MVCFramework.Attributes;
+using SIS.MVCFramework.Attributes.Http;
 using SIS.MVCFramework.Controller;
 
 namespace IRunes.App.Controllers
