@@ -1,4 +1,7 @@
-﻿namespace SIS.MVCFramework.Controller
+﻿using SIS.MVCFramework.Extensions;
+using SIS.MVCFramework.Result;
+
+namespace SIS.MVCFramework.Controller
 {
     using SIS.HTTP.Enums;
     using SIS.HTTP.Requests.Contracts;
@@ -44,12 +47,12 @@
             return viewContent;
         }
 
-        public IHttpResponse View([CallerMemberName] string view = null)
+        public ActionResult View([CallerMemberName] string view = null)
         {
             string controllerName = this.GetType().Name.Replace("Controller", string.Empty);
             string viewName = view;
 
-            string viewContent = File.ReadAllText($"Views/{controllerName}/{viewName}.html");
+            string viewContent = System.IO.File.ReadAllText($"Views/{controllerName}/{viewName}.html");
 
             viewContent = this.ParseTemplate(viewContent);
 
@@ -58,9 +61,24 @@
             return htmlResult;
         }
 
-        public IHttpResponse Redirect(string url)
+        public ActionResult Redirect(string url)
         {
             return new RedirectResult(url);
+        }
+
+        public ActionResult Xml(object obj)
+        {
+            return new XmlResult(obj.ToXml());
+        }
+
+        public ActionResult Json(object obj)
+        {
+            return new JsonResult(obj.ToJson());
+        }
+
+        public ActionResult File()
+        {
+            return null;
         }
     }
 }

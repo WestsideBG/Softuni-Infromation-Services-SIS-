@@ -1,11 +1,13 @@
-﻿using System.Text;
-using SIS.HTTP.Enums;
-using SIS.HTTP.Headers;
-using SIS.HTTP.Responses;
+﻿using SIS.MVCFramework.Result;
 
 namespace SIS.WebServer.Result
 {
-    public class TextResult : HttpResponse
+    using System.Text;
+    using SIS.HTTP.Enums;
+    using SIS.HTTP.Headers;
+    using SIS.HTTP.Responses;
+
+    public class TextResult : ActionResult
     {
         public TextResult(string content, HttpResponseStatusCode responseStatusCode, 
             string contentType = "text/plain; charset=utf-8") : base(responseStatusCode)
